@@ -3,7 +3,7 @@
 📍 Mirpur, Dhaka, Bangladesh  
 📧 mnm.jwd1000@gmail.com | 📱 +8801772284332  
 💼 Backend Developer | Django | Python | SaaS Systems  
-🔗 GitHub: https://github.com/MunimJawad | LinkedIn: your-link  
+🔗 GitHub: https://github.com/MunimJawad | LinkedIn: https://www.linkedin.com/in/munim-jawad-303a7621a/
 
 ---
 
